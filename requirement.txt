@@ -3,4 +3,5 @@ streamlit
 joblib
 openpyxl
 scikit-learn
-LinearRegression
+matplotlib
+seaborn
