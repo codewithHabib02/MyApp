@@ -1,0 +1,6 @@
+pandas
+streamlit
+joblib
+openpyxl
+scikit-learn
+LinearRegression
