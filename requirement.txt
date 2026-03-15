@@ -1,6 +1,6 @@
 pandas
 streamlit
-joblib
+joblib==1.3.2
 openpyxl
 scikit-learn
 matplotlib
